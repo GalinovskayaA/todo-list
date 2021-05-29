@@ -27,6 +27,7 @@
     "typescript": "^4.0.3",
     "web-vitals": "^0.2.4"
   },
+  "homepage": "https://galinovskayaa.github.io/todo-list",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
